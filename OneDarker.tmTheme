@@ -246,11 +246,11 @@
 			<key>name</key>
 			<string>Tags</string>
 			<key>scope</key>
-			<string>entity.name.tag</string>
+			<string>entity.name.tag, punctuation.definition.tag.begin, punctuation.definition.tag.end</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E06C75</string>
+				<string>#3078e6</string>
 			</dict>
 		</dict>
 		<dict>

@@ -40,6 +40,12 @@
 				<string>#2B313A</string>
 				<key>selection</key>
 				<string>#3D4350</string>
+				<key>guide</key>
+		        <string>#1a1b1d</string>
+		        <key>activeGuide</key>
+		        <string>#23547d</string>
+		        <key>stackGuide</key>
+		        <string>#3c3e43</string>
 			</dict>
 		</dict>
 		<dict>

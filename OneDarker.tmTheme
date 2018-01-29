@@ -118,6 +118,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Twig Tag</string>
+			<key>scope</key>
+			<string>text.html.twig meta.tag.expression.twig entity.name.tag.twig, text.html.twig meta.tag.expression.twig punctuation.definition.tag.expression.twig, text.html.twig meta.tag.output.twig punctuation.definition.tag.output.twig</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00BC73</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>This</string>
 			<key>scope</key>
 			<string>variable.language.php</string>

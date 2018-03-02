@@ -873,7 +873,7 @@
             <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
+            <string>markup.warning.sublime_linter</string>
             <key>settings</key>
             <dict>
                <key>foreground</key>
@@ -895,7 +895,7 @@
             <key>name</key>
             <string>SublimeLinter Error</string>
             <key>scope</key>
-            <string>sublimelinter.mark.error</string>
+            <string>markup.error.sublime_linter</string>
             <key>settings</key>
             <dict>
                <key>foreground</key>

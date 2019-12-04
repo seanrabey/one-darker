@@ -142,6 +142,17 @@
          </dict>
          <dict>
             <key>name</key>
+            <string>Static Function Call</string>
+            <key>scope</key>
+            <string>support.class.php, meta.function-call.static.php, variable.function.php, entity.name.function.php</string>
+            <key>settings</key>
+            <dict>
+               <key>fontStyle</key>
+               <string>bold italic</string>
+            </dict>
+         </dict>
+         <dict>
+            <key>name</key>
             <string>Functions</string>
             <key>scope</key>
             <string>entity.name.function, meta.require, support.function.any-method, variable.function.php</string>
